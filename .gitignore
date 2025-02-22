@@ -47,3 +47,6 @@ Thumbs.db
 
 __pycache__
 .venv
+
+# Cookies
+cookies.txt
