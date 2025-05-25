@@ -8,4 +8,4 @@ services:
     volumes:
       - D:/Organized:/downloads
     environment:
-      - YTDL_OPTIONS={"cookiefile":"/downloads/cookies.txt", "trim_file_name":25}
+      - YTDL_OPTIONS={"cookiefile":"/downloads/cookies.txt", "trim_file_name":100}
